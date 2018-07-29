@@ -1,0 +1,5 @@
+/*the below styling makes all elements have border bottom of 1px solid*/
+*
+  {
+    border-bottom: 1px solid; 
+  }
